@@ -1,0 +1,22 @@
+.responsive-tasarim{
+    width: 23PX;
+    height: 34PX;
+    position: 23px;
+    border: center;
+    position: center;
+
+
+}
+.responsive-tasarim div{
+    width: 23px;
+    color: black;
+    
+}
+.h1 box{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    bottom: 100px;
+    line-height: 23px;
+    
+}
